@@ -6,7 +6,7 @@ print('Day 1 - Python Print Function')
 
 print("The function is declared like this")
 
-#usando \ para decirle a Python que es un apostrofe ' y en string no termina alli.
+#usando \ para decirle a Python que es un apostrofe ' y el string no termina alli.
 print('today It\'s raininig')
 
 # Evitar usar \ si es que se puede evitar.
