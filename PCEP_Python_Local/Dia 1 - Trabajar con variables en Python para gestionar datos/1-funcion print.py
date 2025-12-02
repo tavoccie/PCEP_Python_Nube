@@ -2,14 +2,15 @@
 
 #funcion print() y forma de usar comillas dobles y simples.
 
-print('Day 1 - Python Print Function')
+print(' Dia 1 - Funcion print() ')
 
-print("The function is declared like this")
+print("La función se declara así")
 
 #usando \ para decirle a Python que es un apostrofe ' y el string no termina alli.
-print('today It\'s raininig')
+print('Today it\'s raininig')
 
 # Evitar usar \ si es que se puede evitar.
-print("Today It's raninig")
+print("Good morning ma'am")
 
+#literal se leería: imprime,imprime, que imprimir
 print("print('what to print')")
